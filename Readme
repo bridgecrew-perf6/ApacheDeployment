@@ -1,0 +1,7 @@
+APACHE TOMCAT:
+
+Apache Tomcat is an opensource web server and servlet container developed by the Apache Software Foundation (ASF). The goal of apache tomcat is to provide a secure, efficient and extensible server that provides HTTP services in sync with the current HTTP standards. Apache Tomcat powers numerous large-scale, mission-critical web applications across a diverse range of industries and organizations.
+
+BASTION HOST:
+
+Bastion Host provides an external facing point of entry into a network containing private network instances. By using a bastion host, you can connect to a VM that does not have an external IP address. A bastion host is a special purpose GCP instance that provides SSH access to NAT gateway into your VPC and acts as a proxy to GCP instances running within your VPC.
